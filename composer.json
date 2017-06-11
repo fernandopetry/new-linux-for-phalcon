@@ -1,0 +1,15 @@
+{
+  "name": "fernandopetry/new-linux-for-phalcon",
+  "description": "Iniciando um projeto em Phalcon PHP",
+  "minimum-stability": "stable",
+  "license": "",
+  "authors": [
+    {
+      "name": "Fernando Petry",
+      "email": "fernando@ideia.ppg.br"
+    }
+  ],
+  "require": {
+    "phalcon/devtools": "dev-master"
+  }
+}
